@@ -8,6 +8,3 @@ Dictionary.h: Header file for Dictionary ADT; provided by professor
 Dictionary.c: Dictionary ADT file
 DictionaryTest.c: Test program for all Dicitonary ADT functions
 Lex.c: Client file for Dictionary ADT that alphabitizes input file to output file
-
-Note1: Basis for Lex.c from my own PA1
-Note2: Basis for Dicitonary ADT from Pseudocode provided by professor
